@@ -2,7 +2,7 @@
 <img src="https://s3.amazonaws.com/media.skillcrush.com/skillcrush/wp-content/uploads/2020/07/Blog_Front-End-Portfolio.jpg" />
 </p>
 
-<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+<h2 align="center">Technology Stack <img src="https://github.com/OppKunG/OppKunG/blob/main/images/laptop.gif" width="50"></h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white"/>
@@ -37,7 +37,7 @@
   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h2>
 <p align="center">
-<!--   <img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center> -->
+<img src="https://github.com/OppKunG/OppKunG/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 
