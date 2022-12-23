@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://s3.amazonaws.com/media.skillcrush.com/skillcrush/wp-content/uploads/2020/07/Blog_Front-End-Portfolio.jpg" />
+<img src="https://user-images.githubusercontent.com/67791331/209309064-df555e09-db69-4a97-b821-136d94465010.png" />
 </p>
 
 <h2 align="center">Technology Stack <img src="https://github.com/OppKunG/OppKunG/blob/main/images/laptop.gif" width="50"></h2>
