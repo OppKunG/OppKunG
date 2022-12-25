@@ -27,9 +27,9 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a
     
-<a href="https://https://instagram.com/oppjakarin?igshid=YmMyMTA2M2Y=">
+<!-- <a href="https://https://instagram.com/oppjakarin?igshid=YmMyMTA2M2Y=">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white&link=https://https://instagram.com/oppjakarin?igshid=YmMyMTA2M2Y="/>
-</a>
+</a> -->
 </p>
 
 
