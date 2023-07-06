@@ -16,7 +16,6 @@
 <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github"/>
 </p>
 
