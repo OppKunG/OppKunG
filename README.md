@@ -28,6 +28,7 @@
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white"/>
 </p>
 
+<!--
 <h2 align="center">About me <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <p align="center">
@@ -51,4 +52,5 @@
 
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=OppKunG&show_icons=true&locale=en&layout=compact&theme=react&line_height=0" />
-</p> 
+</p>
+-->
